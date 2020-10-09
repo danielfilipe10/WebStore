@@ -1,0 +1,9 @@
+C:\repos\WebStore\WebStore.Domain\bin\Debug\netstandard2.0\WebStore.Domain.deps.json
+C:\repos\WebStore\WebStore.Domain\bin\Debug\netstandard2.0\WebStore.Domain.dll
+C:\repos\WebStore\WebStore.Domain\bin\Debug\netstandard2.0\WebStore.Domain.pdb
+C:\repos\WebStore\WebStore.Domain\obj\Debug\netstandard2.0\WebStore.Domain.csprojAssemblyReference.cache
+C:\repos\WebStore\WebStore.Domain\obj\Debug\netstandard2.0\WebStore.Domain.AssemblyInfoInputs.cache
+C:\repos\WebStore\WebStore.Domain\obj\Debug\netstandard2.0\WebStore.Domain.AssemblyInfo.cs
+C:\repos\WebStore\WebStore.Domain\obj\Debug\netstandard2.0\WebStore.Domain.csproj.CoreCompileInputs.cache
+C:\repos\WebStore\WebStore.Domain\obj\Debug\netstandard2.0\WebStore.Domain.dll
+C:\repos\WebStore\WebStore.Domain\obj\Debug\netstandard2.0\WebStore.Domain.pdb

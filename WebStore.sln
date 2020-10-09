@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStore", "WebStore\WebStore.csproj", "{1D317436-7EB8-4B7A-9AE5-3CADA1171A22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStore.Web", "WebStore\WebStore.Web.csproj", "{1D317436-7EB8-4B7A-9AE5-3CADA1171A22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStore.Domain", "WebStore.Domain\WebStore.Domain.csproj", "{E1313935-01F6-4193-BB31-3E3C935AC639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStore.Infrastructure", "WebStore.Infrastructure\WebStore.Infrastructure.csproj", "{C33BFB32-9C79-4494-A798-1367EFC0B127}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{1D317436-7EB8-4B7A-9AE5-3CADA1171A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D317436-7EB8-4B7A-9AE5-3CADA1171A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D317436-7EB8-4B7A-9AE5-3CADA1171A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1313935-01F6-4193-BB31-3E3C935AC639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1313935-01F6-4193-BB31-3E3C935AC639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1313935-01F6-4193-BB31-3E3C935AC639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1313935-01F6-4193-BB31-3E3C935AC639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33BFB32-9C79-4494-A798-1367EFC0B127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33BFB32-9C79-4494-A798-1367EFC0B127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33BFB32-9C79-4494-A798-1367EFC0B127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33BFB32-9C79-4494-A798-1367EFC0B127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
