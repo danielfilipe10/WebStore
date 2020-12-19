@@ -1,9 +1,0 @@
-C:\repos\WebStore\WebStore.Infrastructure\bin\Debug\netstandard2.0\WebStore.Infrastructure.deps.json
-C:\repos\WebStore\WebStore.Infrastructure\bin\Debug\netstandard2.0\WebStore.Infrastructure.dll
-C:\repos\WebStore\WebStore.Infrastructure\bin\Debug\netstandard2.0\WebStore.Infrastructure.pdb
-C:\repos\WebStore\WebStore.Infrastructure\obj\Debug\netstandard2.0\WebStore.Infrastructure.csprojAssemblyReference.cache
-C:\repos\WebStore\WebStore.Infrastructure\obj\Debug\netstandard2.0\WebStore.Infrastructure.AssemblyInfoInputs.cache
-C:\repos\WebStore\WebStore.Infrastructure\obj\Debug\netstandard2.0\WebStore.Infrastructure.AssemblyInfo.cs
-C:\repos\WebStore\WebStore.Infrastructure\obj\Debug\netstandard2.0\WebStore.Infrastructure.csproj.CoreCompileInputs.cache
-C:\repos\WebStore\WebStore.Infrastructure\obj\Debug\netstandard2.0\WebStore.Infrastructure.dll
-C:\repos\WebStore\WebStore.Infrastructure\obj\Debug\netstandard2.0\WebStore.Infrastructure.pdb
